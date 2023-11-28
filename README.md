@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nidhisinghv
 - 🌱 I’m currently working as Full Stack Developer
-- 💞️ I’m looking to oppurtinity to explore my skill in .Net and Javascript
+- 💞️ I’m looking to oppurtinity to explore my skill in .Net, Javascript | SQL Server and AWS
 
 
 <!---
